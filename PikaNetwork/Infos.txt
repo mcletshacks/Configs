@@ -1,0 +1,14 @@
+Credits:
+
+created by quenqy
+edited by McletsHacks
+
+Modules:
+
+Killaura - Working (No speed while killaura)
+Scaffold - Working
+Fly - Working (upto 5 times then wait 5 sec)
+Velocity - Working
+
+
+Version: 1.0
