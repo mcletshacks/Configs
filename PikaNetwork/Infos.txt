@@ -16,3 +16,5 @@ Version: 2.0
 Tested time: 46:12 mins witheout ban (maybe also bc it was 23:00)
 
 Client: FPD 5.0 (latest beta build566e1ff)
+
+use .binds clear to clear all the binds and make your own if you want
