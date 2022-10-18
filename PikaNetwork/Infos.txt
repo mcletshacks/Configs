@@ -1,14 +1,16 @@
 Credits:
 
-created by quenqy
+created by EndoplazmikRetikulum (maybe)
 edited by McletsHacks
 
 Modules:
 
 Killaura - Working (No speed while killaura)
-Scaffold - Working
-Fly - Working (upto 5 times then wait 5 sec)
+Scaffold - Working dount use speed potion
+Fly - NO
 Velocity - Working
 
 
-Version: 1.0
+Version: 2.0
+
+Tested time: 46:12 mins witheout ban (maybe also bc it was 23:00)
